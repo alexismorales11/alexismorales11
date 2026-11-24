@@ -1,8 +1,6 @@
 # 👋 Hola, soy Alexis Morales
 
-**Full Stack Senior Software Engineer | AI Engineer** desde Guatemala 🇬🇹
-
-Ingeniero de software con **+5 años de experiencia** en el desarrollo y optimización de soluciones para empresas de los sectores **financiero, telecomunicaciones y bienes raíces**.
+**Senior Software Engineer y AI Engineer +5 años de experiencia** en el desarrollo y optimización de soluciones para empresas de los sectores **financiero, telecomunicaciones y bienes raíces**.
 
 Me especializo en **desarrollo full stack, arquitectura de microservicios, automatización de procesos e integración de inteligencia artificial en producción**: desde agentes de voz y pipelines RAG hasta APIs backend, interfaces cuidadas y despliegues en la nube. Me gusta tomar ownership de los productos de principio a fin y convertir problemas de negocio en software que genera resultados medibles.
 
