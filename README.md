@@ -1,51 +1,51 @@
-# 👋 Hi, I'm Alexis Morales
+# 👋 Hola, soy Alexis Morales
 
-**Full Stack Senior Software Engineer | AI Engineer** based in Guatemala 🇬🇹
+**Full Stack Senior Software Engineer | AI Engineer** desde Guatemala 🇬🇹
 
-Software engineer with **5+ years of experience** building and optimizing solutions for companies in the **fintech, telecommunications and real estate** sectors.
+Ingeniero de software con **más de 5 años de experiencia** en el desarrollo y optimización de soluciones para empresas de los sectores **financiero, telecomunicaciones y bienes raíces**.
 
-I specialize in **full stack development, microservices architecture, process automation and AI in production** — from voice agents and RAG pipelines to backend APIs, polished frontends and cloud deployments. I enjoy owning products end-to-end and turning business problems into software that delivers measurable results.
-
----
-
-## 🚀 Highlights
-
-- 💼 **5+ years** of professional software development experience
-- 🤖 Built a **multi-node AI voice agent** (ElevenLabs + SIP telephony) that generated **+Q1.5M in sales in its first 34 days**
-- 🧠 Built an **AI real estate advisor** with RAG (LangChain + LangGraph, Pinecone, LangSmith) that converts **1 in 10 scheduled visits into a sale**
-- 🏦 Designed the **collections microservice** of a banking app with NestJS and an event-driven architecture on **AWS SNS/SQS**, compliant with banking security and DLP policies
-- 🌎 Regional-scope projects across **Central America**
-- ⚙️ Process automation with **n8n** and third-party integrations
-- ☁️ Production deployments on **AWS (EC2, RDS, SQS, SNS, DynamoDB)**
-- 📈 Currently leveling up in **Cloud Computing (AWS/Azure)** and English
+Me especializo en **desarrollo full stack, arquitectura de microservicios, automatización de procesos e integración de inteligencia artificial en producción**: desde agentes de voz y pipelines RAG hasta APIs backend, interfaces cuidadas y despliegues en la nube. Me gusta tomar ownership de los productos de principio a fin y convertir problemas de negocio en software que genera resultados medibles.
 
 ---
 
-## 📌 Featured Work
+## 🚀 Destacados
 
-### 🎙️ AI Voice Sales Agent — PropTech
-Multi-node conversational voice agent for real estate sales over SIP telephony. Generated **+Q1.5M in sales** in its first 34 days of operation.
+- 💼 **+5 años** de experiencia profesional en desarrollo de software
+- 🤖 Construí un **agente IA de voz multinodo** (ElevenLabs + telefonía SIP) que generó **+Q1.5 millones en ventas en sus primeros 34 días**
+- 🧠 Desarrollé un **asesor inmobiliario con IA** usando RAG (LangChain + LangGraph, Pinecone, LangSmith) que convierte **1 de cada 10 visitas agendadas en venta**
+- 🏦 Diseñé el **microservicio de cobros** de una app bancaria con NestJS y arquitectura orientada a eventos sobre **AWS SNS/SQS**, cumpliendo la normativa de seguridad bancaria y políticas DLP
+- 🌎 Proyectos de alcance regional en **Centroamérica**
+- ⚙️ Automatización de procesos con **n8n** e integraciones con terceros
+- ☁️ Despliegues en producción sobre **AWS (EC2, RDS, SQS, SNS, DynamoDB)**
+- 📈 Actualmente fortaleciendo **Cloud Computing (AWS/Azure)** e inglés
+
+---
+
+## 📌 Proyectos destacados
+
+### 🎙️ Agente IA de voz para ventas — PropTech
+Agente conversacional de voz multinodo para ventas inmobiliarias sobre telefonía SIP. Generó **+Q1.5 millones en ventas** en sus primeros 34 días de operación.
 
 **Tech:** ElevenLabs • SIP • n8n • FastAPI
 
-### 🏠 AI Real Estate Advisor (RAG)
-End-to-end AI agent acting as a real estate advisor, built on top of a full stack product I also developed. Converts **1 out of 10** scheduled visits into a sale.
+### 🏠 Asesor inmobiliario con IA (RAG)
+Agente IA de extremo a extremo que actúa como asesor inmobiliario, construido sobre un producto full stack que también desarrollé. Convierte **1 de cada 10** visitas agendadas en venta.
 
 **Tech:** LangChain • LangGraph • LangSmith • Pinecone • FastAPI • Vue 3 • Elasticsearch • SQL Server
 
-### 💳 Collections Microservice — Fintech
-Event-driven microservice to automate and trace payment recovery, processing events asynchronously and reliably under banking security standards.
+### 💳 Microservicio de cobros — Fintech
+Microservicio orientado a eventos para automatizar y dar trazabilidad a la recuperación de pagos, procesando eventos de forma asíncrona y confiable bajo estándares de seguridad bancaria.
 
 **Tech:** NestJS • TypeScript • AWS SNS • AWS SQS
 
-### 📊 Commercial Management Platform — Real Estate
-Full stack platform that centralized clients, opportunities and sales into a single system, deployed to production on AWS EC2 Linux instances.
+### 📊 Plataforma de gestión comercial — Bienes raíces
+Plataforma full stack que centralizó en un solo sistema la gestión de clientes, oportunidades y ventas, desplegada en producción en instancias Linux de AWS EC2.
 
 **Tech:** Node.js • React • PostgreSQL • AWS EC2
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack tecnológico
 
 **Frontend**
 
@@ -69,7 +69,7 @@ Full stack platform that centralized clients, opportunities and sales into a sin
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**AI & Automation**
+**IA y Automatización**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
@@ -84,7 +84,7 @@ Full stack platform that centralized clients, opportunities and sales into a sin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Databases & Search**
+**Bases de datos y Búsqueda**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -95,38 +95,38 @@ Full stack platform that centralized clients, opportunities and sales into a sin
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Educación y certificaciones
 
-- 🏛️ **Systems Engineering** — Universidad Mariano Gálvez *(in progress)*
-- 💚 **Platzi** — Software Development School, AI Academy and Cloud Computing School *(in progress)*
-- 📜 Scrum: Roles & Responsibilities • Advanced Angular • Node.js & PostgreSQL • Node.js & REST APIs with Express
-- 🧡 HubSpot CMS for Developers • Sales Hub & Marketing Hub Implementation • Growth-Driven Design • SEO
-
----
-
-## 🧠 Beyond Work
-
-When I'm not coding, you'll probably find me:
-
-- ☕ Building side businesses and entrepreneurial projects
-- 🌋 Hiking volcanoes in Guatemala
-- ⚽ Watching football
-- 🏋️ At the gym
-- 🤖 Experimenting with AI agents and automation workflows
+- 🏛️ **Ingeniería de Sistemas** — Universidad Mariano Gálvez *(en curso)*
+- 💚 **Platzi** — Escuela de Desarrollo de Software, AI Academy y Escuela de Cloud Computing *(en curso)*
+- 📜 Scrum: Responsabilidades y roles • Angular avanzado • Node.js y PostgreSQL • Node.js y API REST con Express.js
+- 🧡 HubSpot CMS for Developers • Sales Hub y Marketing Hub Implementation • Growth-Driven Design • SEO
 
 ---
 
-## 🌱 Current Focus
+## 🧠 Más allá del trabajo
 
-- AI Agents & Voice AI in production
-- RAG and LLM engineering
-- Cloud infrastructure (AWS / Azure)
-- Event-driven & microservices architectures
-- Improving my English 🇺🇸
+Cuando no estoy programando, probablemente me encuentres:
+
+- ☕ Impulsando emprendimientos y proyectos propios
+- 🌋 Subiendo volcanes en Guatemala
+- ⚽ Viendo fútbol
+- 🏋️ En el gimnasio
+- 🤖 Experimentando con agentes de IA y flujos de automatización
 
 ---
 
-## 📫 Connect with me
+## 🌱 Enfoque actual
+
+- Agentes de IA y Voice AI en producción
+- RAG e ingeniería de LLMs
+- Infraestructura cloud (AWS / Azure)
+- Arquitecturas orientadas a eventos y microservicios
+- Mejorando mi inglés 🇺🇸
+
+---
+
+## 📫 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexismorales11/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvinmoralesoficial@gmail.com)
