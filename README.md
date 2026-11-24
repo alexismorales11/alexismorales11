@@ -54,7 +54,7 @@ Full stack platform that centralized clients, opportunities and sales into a sin
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HubSpot](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=for-the-badge)
 
 **Backend**
 
@@ -76,7 +76,7 @@ Full stack platform that centralized clients, opportunities and sales into a sin
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
 **Cloud & DevOps**
 
